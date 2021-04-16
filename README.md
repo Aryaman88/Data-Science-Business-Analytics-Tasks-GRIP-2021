@@ -8,7 +8,6 @@ These are the tasks for Data Science and Business Analytics Intern@GRIP 2021
 ● You can use R, Python, SAS Enterprise Miner or any other tool
 ● Data can be found at http://bit.ly/w-data
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
-● Sample Solution : https://bit.ly/2HxiGGJ
 
 
 2)TASK 2@GRIP-
@@ -19,7 +18,6 @@ These are the tasks for Data Science and Business Analytics Intern@GRIP 2021
 and represent it visually.
 ● Use R or Python or perform this task
 ● Dataset : https://bit.ly/3kXTdox
-● Sample Solution : https://bit.ly/3cGyP8j
 
 
 3)TASK 6@GRIP
@@ -29,4 +27,3 @@ and represent it visually.
 ● The purpose is if we feed any new data to this classifier, it would be able to
 predict the right class accordingly.
 ● Dataset : https://bit.ly/3kXTdox
-● Sample Solution : https://bit.ly/2G6sYx9
